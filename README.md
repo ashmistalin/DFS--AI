@@ -1,4 +1,5 @@
-# DFS--AI
+# depth first search
+
 
 ## PROGRAM:
 ```
