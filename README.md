@@ -24,3 +24,4 @@ dfs(visited, graph, '5')
 
 
 ## OUTPUT:
+![Screenshot (468)](https://github.com/ashmistalin/DFS--AI/assets/103128410/8685cc27-7b2b-410a-9c65-e0c4a77006be)
